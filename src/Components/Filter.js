@@ -1,3 +1,4 @@
+  
 import React from "react";
 
 function Filter(props) {
@@ -22,3 +23,6 @@ function Filter(props) {
     </div>
   );
 }
+
+export default Filter;
+
